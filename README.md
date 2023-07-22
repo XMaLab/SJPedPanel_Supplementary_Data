@@ -24,8 +24,7 @@
 
 ---
 
-
-## Desciption of the files
+## Description of the files
 
 The repository consists of the following files,
 
@@ -67,6 +66,9 @@ The repository consists of the following files,
 ## Publication/Citations
 
 Manuscript under preparation
+
+## Zenodo repository
+[![DOI](https://zenodo.org/badge/665741197.svg)](https://zenodo.org/badge/latestdoi/665741197)
 
 ## Contact
 
