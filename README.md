@@ -4,7 +4,7 @@
     Supplementary Data for
   </p>
   <h1 align="center">
-    SJPedPanel: A pan cancer gene panel for childhood malignancies
+    SJPedPanel: A pan-cancer gene panel for childhood malignancies
   </h1>
 
   <br>
