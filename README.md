@@ -9,7 +9,7 @@
 
   <br>
   <p align="center">
-  Pandurang Kolekar<sup>1*</sup>, Vidya Balagopal<sup>2*</sup>, Li Dong<sup>1*</sup>, Yanling Liu<sup>1</sup>, Scott Foy<sup>1</sup>, Quang Tran<sup>1</sup>, Heather Mulder<sup>1</sup>, Anna LW Huskey<sup>2</sup>, Emily Plyler<sup>1</sup>, Zhikai Liang<sup>1</sup>, Jingqun Ma<sup>2</sup>, Joy Nakitandwe<sup>3</sup>, Jiali Gu<sup>2</sup>, Jamie Maciaszek<sup>2</sup>, Debbie Payne-Turner<sup>2</sup>, Saradhi Mallampati<sup>2</sup>, Lu Wang<sup>2</sup>, Elizabeth Stewart<sup>4</sup>, John Easton<sup>1</sup>, Jeffery M. Klco<sup>2#</sup>, Xiaotu Ma<sup>1#</sup>
+  Pandurang Kolekar<sup>1*</sup>, Vidya Balagopal<sup>2*</sup>, Li Dong<sup>1*</sup>, Yanling Liu<sup>1</sup>, Scott Foy<sup>1</sup>, Quang Tran<sup>1</sup>, Heather Mulder<sup>1</sup>, Anna LW Huskey<sup>2</sup>, Emily Plyler<sup>1</sup>, Zhikai Liang<sup>1</sup>, Jingqun Ma<sup>2</sup>, Joy Nakitandwe<sup>3</sup>, Jiali Gu<sup>2</sup>, Jamie Maciaszek<sup>2</sup>, Debbie Payne-Turner<sup>2</sup>, Saradhi Mallampati<sup>2</sup>, Lu Wang<sup>2</sup>, John Easton<sup>1</sup>, Jeffery M. Klco<sup>2#</sup>, Xiaotu Ma<sup>1#</sup>
  </p>
 
   <p align="center">
@@ -18,7 +18,7 @@
    <sup>2</sup>: Department of Pathology, St. Jude Children’s Research Hospital, Memphis, TN, USA<br/>
    <sup>3</sup>:  Department of Laboratory Medicine, Pathology and Laboratory Medicine Institute,
 Cleveland Clinic, OH, USA<br/>
-<sup>4</sup>: Department of Oncology, St. Jude Children’s Research Hospital, Memphis, TN, USA<br/><br/>
+<br/>
    <sup>*</sup>: Contributed equally</br>
    <sup>#</sup>: correspondence authors</br>
    <br/>
